@@ -73,7 +73,7 @@ export default {
 }
 </script>
 
-<style scoped>
+<style>
 * {margin: 0;padding: 0;box-sizing: border-box;}
 
 body {min-height: 500vh;background: #000;overflow-x: hidden;}
