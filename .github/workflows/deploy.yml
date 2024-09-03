@@ -13,7 +13,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '14'  # 또는 프로젝트에 맞는 Node.js 버전
+          node-version: '16'  # 또는 프로젝트에 맞는 Node.js 버전
 
       - name: Install and Build 🔧
         run: |
